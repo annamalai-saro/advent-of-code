@@ -1,2 +1,2 @@
 # advent-of-code
-Advent of node in ECMAScript 2015 !
+Advent of code solutions in ECMAScript 2015 !
